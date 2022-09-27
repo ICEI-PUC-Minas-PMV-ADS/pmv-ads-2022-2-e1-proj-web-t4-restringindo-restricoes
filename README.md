@@ -1,10 +1,10 @@
 # Restringindo Restrições
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto - Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1° Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 

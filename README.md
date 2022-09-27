@@ -10,14 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Brendon O. Souza
+* Evandro J. Bernardo
+* Matheus A. Fernandino
+* Nilson P. Junior
+* Pablo C. Oliveira
+* Tiago A. Morais
 
 ## Orientador
 
-* Nome completo do professor 1
+* Sandra M. Silveira
 
 ## Instruções de utilização
 

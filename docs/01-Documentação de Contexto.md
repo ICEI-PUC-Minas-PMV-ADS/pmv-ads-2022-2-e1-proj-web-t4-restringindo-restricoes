@@ -1,6 +1,8 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A alimentação é um requisito fundamental para a manutenção da subsistência básica, mas pode carregar consigo muitas possibilidades, especialmente por seu potencial em provocar prazer de diferentes formas (ATHANÁSSIOS; CORDÁS, 2010). Por seu potencial, a alimentação tem ganhado cada vez mais novos significados e atraindo novos olhares, revelando problemas e carências que podem ser resolvidos com ajuda da tecnologia. Dentre os problemas, destaca-se a ausência e/ou limitações de informações e recursos específicos, acessíveis e especializados, voltados com maior atenção para pessoas com interesses ou paladar limitado, seja por restrição alimentar ou interesse pessoal.
+
+A alimentação é responsável por afetar diretamente o organismo, positiva ou negativamente, conforme o que tem sido ingerido e a experiência envolvida. Nesse sentido, quando não há enfoque suficiente no tema, pessoas com intolerâncias alimentares possuem maior probabilidade de terem que lidar com intoxicação e transtornos alimentares em algum momento da vida (SEIDMAN; FERREIRA, 2007), especialmente por falta de informação. Diante dessa situação, torna-se relevante o desenvolvimento e oferta de recursos que proporcionem informações acessíveis e viáveis para a execução de receitas de qualidade, buscando otimizar a saúde das pessoas e criar relações benéficas e prazerosas com a alimentação, utilizando da tecnologia como intermediária para alcançar um público maior.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.

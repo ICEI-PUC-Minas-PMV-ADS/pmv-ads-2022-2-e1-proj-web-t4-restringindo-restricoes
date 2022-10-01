@@ -8,78 +8,80 @@ Para melhor compreensão do contexto e problema, foram criadas personas de acord
 
 ## `VILMA CARMINATTI DUARTE`
 
-| ![persona 1-edit] | Vilma Carminatti Duarte, 26 anos                                                                                      |
+| ![persona 1-edit] | Vilma Carminatti Duarte, 26 anos |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| Ocupação                                                                                                                 | RH numa empresa de médio porte                                                                                         |
-| Aplicativos preferidos                                                                                                   | Instagram, Facebook, Youtube e Linkedin                                                                               |
-| Motivações                                                                                                               |Ter uma alimentação mais saudável              |
-| Seus Hobbies                                                                                                             | Séries, livros e frequenta a academia                                                                             |
-| Frustrações                                                                                                             | Tem dificuldade em substituir produtos com lactose por falta de receitas saborosas
+| Ocupação | RH numa empresa de médio porte |
+| Aplicativos preferidos | Instagram, Facebook, Youtube e Linkedin |
+| Motivações |Ter uma alimentação mais saudável |
+| Seus Hobbies | Séries, livros e frequenta a academia |
+| Frustrações | Tem dificuldade em substituir produtos com lactose por falta de receitas saborosas |
+
+## `HUMBERTO GUERINI DE OLIVEIRA`
+
+| ![persona 1-edit] | Humberto Guerini de Oliveira, 42 anos |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Ocupação                                                                                                                 | Motorista de aplicativo em duas empresas diferentes             |
+| Aplicativos preferidos                                                                                                   | Twitter, Whatsapp, Apps de carona e GPS             |
+| Motivações                                                                                                               | Evitar que outras pessoas passem pela mesma dor e seguir uma dieta celíaca             |
+| Seus Hobbies                                                                                                             | Ouvir músicas, passar o tempo com os filhos e dirigir        |
+| Frustrações                                                                                                              | Já foi parar no hospital após tomar uma cerveja e não saber que havia malte             |
+
+## `ROSALI QUINTELA STUTZ`
+
+| ![persona 1-edit] | Rosali Quintela Stutz, 32 anos                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Ocupação | Nutricionista comportamental em um consultório |
+| Aplicativos preferidos | Linkedin, Twitter, Whatsapp, Facebook e Instagram  |
+| Motivações                                                                                                               | Dedica a sua vida aa ajudar as pessoas terem uma alimentação melhor            |
+| Seus Hobbies                                                                                                             | Vai na academia todos os dias, adora passar o tempo com o seu cachorro e ama muito a sua profissão            |
+| Frustrações                                                                                                              | Perdeu um ente querido devido a falta de informação            |
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+A partir da compreensão da rotina das personas identificadas no projeto, foram registradas as seguintes histórias de usuários.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+| Eu como...`PERSONA`      | ...quero/desejo...`FUNCIONALIDADE`                                                                                              | ... para...`MOTIVO/VALOR`                                                                                |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Vilma Carminatti         | Acessar receitas livres de lactose sempre que precisar | Construir em cima disso uma dieta livre de laticínios |
+| Vilma Carminatti         | ter informações detalhadas de todos os ingredientes de acordo com o meu gosto | Dar um foco relacionado com as minhas preferências |
+| Humberto Guerini         | Fazer comentários em receitas e dar a minha opinião | Discutir com pessoas de interesse em comum |
+| Humberto Guerini         | Checar as top receitas da semana | Sempre estar experimentando algo novo |
+| Rosali Quintela          | Participar ativamente em um blog | Compartilhar receitas e dicas para o restante da comunidade |
+| Vilma Carminatti         | Ter suas receitas salvas | Acessá-las mais tarde ou compartilhar |
+| Rosali Quintela          | Compartilhar as receitas em redes sociais | Discutir com os meus amigos sobre as receitas em questão |
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+O escopo do projeto foi desenvolvido através da análise dos perfis de usuários, demandas do projeto e itens fundamentais para o desenvolvimento de uma Plataforma Web, considerando qualidade, desempenho, usabilidade e a melhor experiência possível. A estrutura dos requisitos foi dividida entre requisitos funcionais, não funcionais e as restrições no desenvolvimento do projeto.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
+|ID | Descrição do Requisito | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01| O site deve conter um blog interno                                                      | ALTA  |
+|RF-02| O site deve manter receitas                                                             | MÉDIA |
+|RF-03| O site precisa oferecer um menu de navegação amigável                                   | ALTA  |
+|RF-04| O site vai oferecer recomendações de receitas com base na receita acessada              | MÉDIA |
+|RF-05| O site permitirá interação entre usuários através de campos de comentários              | BAIXA |
+|RF-06| O site terá compartilhamento das receitas visualizadas nas plataformas de redes sociais | BAIXA |
+|RF-07| O site permite que o usuário visualize as informações de contatos do gerenciador        | BAIXA | 
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|ID | Descrição do Requisito | Prioridade |
+|------|-----------------------------------------|----|
+|RNF-01| A aplicação Web deve ter um layout responsivo permitindo a utilização em diversos tipos de tela | ALTA | 
+|RNF-02| A aplicação precisa ter compatibilidade com os principais navegadores                           | ALTA |
+|RNF-03| O site deve ser otimizado com recursos que viabilizem a acessibilidade                          | MÉDIA |
+|RNF-04| O site deve ser publicado em um repositório público acessível, como o Github                    | MÉDIA |
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID| Restrição                                            |
+|--|------------------------------------------------------|
+|RE-01| A aplicação não poderá fazer o uso de banco de dados        |
+|RE-02| O projeto deve ser entregue até o dia 25/11/2022            |
+|RE-03| Devem ser usados apenas as tecnologias básicas do front-end |

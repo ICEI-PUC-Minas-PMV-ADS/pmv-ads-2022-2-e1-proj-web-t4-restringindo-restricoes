@@ -6,7 +6,7 @@
 
 `1° Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral do projeto se volta ao desenvolvimento de uma plataforma acessível e interativa para a oferta de recursos e informações sobre a alimentação, com ênfase em conteúdos para pessoas com restrição alimentar, interesses ou paladar limitado.
 
 ## Integrantes
 

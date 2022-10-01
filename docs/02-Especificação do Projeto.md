@@ -1,26 +1,20 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O projeto consiste no desenvolvimento de uma plataforma acessível e interativa para a oferta de recursos e informações sobre a alimentação, com ênfase em conteúdos para pessoas com restrição alimentar, interesses ou paladar limitado. A definição do problema foi alcançada e refinada através de pesquisas sobre o tema e estudos com o público-alvo, consolidando o contexto e meios para intervenção.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Para melhor compreensão do contexto e problema, foram criadas personas de acordo com os padrões vislumbrados durante as pesquisas sobre o tema, como demonstrado a seguir: 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+## `VILMA CARMINATTI DUARTE`
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| ![persona 1-edit] | Vilma Carminatti Duarte, 26 anos                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Ocupação                                                                                                                 | RH numa empresa de médio porte                                                                                         |
+| Aplicativos preferidos                                                                                                   | Instagram, Facebook, Youtube e Linkedin                                                                               |
+| Motivações                                                                                                               |Ter uma alimentação mais saudável              |
+| Seus Hobbies                                                                                                             | Séries, livros e frequenta a academia                                                                             |
+| Frustrações                                                                                                             | Tem dificuldade em substituir produtos com lactose por falta de receitas saborosas
 
 ## Histórias de Usuários
 

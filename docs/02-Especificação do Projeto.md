@@ -8,7 +8,7 @@ Para melhor compreensão do contexto e problema, foram criadas personas de acord
 
 ## `VILMA CARMINATTI DUARTE`
 
-| ![persona 1-edit] | Vilma Carminatti Duarte, 26 anos |
+|| Vilma Carminatti Duarte, 26 anos |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | Ocupação | RH numa empresa de médio porte |
 | Aplicativos preferidos | Instagram, Facebook, Youtube e Linkedin |
@@ -18,23 +18,23 @@ Para melhor compreensão do contexto e problema, foram criadas personas de acord
 
 ## `HUMBERTO GUERINI DE OLIVEIRA`
 
-| ![persona 1-edit] | Humberto Guerini de Oliveira, 42 anos |
+|| Humberto Guerini de Oliveira, 42 anos |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| Ocupação                                                                                                                 | Motorista de aplicativo em duas empresas diferentes             |
-| Aplicativos preferidos                                                                                                   | Twitter, Whatsapp, Apps de carona e GPS             |
-| Motivações                                                                                                               | Evitar que outras pessoas passem pela mesma dor e seguir uma dieta celíaca             |
-| Seus Hobbies                                                                                                             | Ouvir músicas, passar o tempo com os filhos e dirigir        |
-| Frustrações                                                                                                              | Já foi parar no hospital após tomar uma cerveja e não saber que havia malte             |
+| Ocupação | Motorista de aplicativo em duas empresas diferentes |
+| Aplicativos preferidos | Twitter, Whatsapp, Apps de carona e GPS |
+| Motivações | Evitar que outras pessoas passem pela mesma dor e seguir uma dieta celíaca |
+| Seus Hobbies | Ouvir músicas, passar o tempo com os filhos e dirigir |
+| Frustrações | Já foi parar no hospital após tomar uma cerveja e não saber que havia malte |
 
 ## `ROSALI QUINTELA STUTZ`
 
-| ![persona 1-edit] | Rosali Quintela Stutz, 32 anos                                                                                      |
+|| Rosali Quintela Stutz, 32 anos                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | Ocupação | Nutricionista comportamental em um consultório |
-| Aplicativos preferidos | Linkedin, Twitter, Whatsapp, Facebook e Instagram  |
-| Motivações                                                                                                               | Dedica a sua vida aa ajudar as pessoas terem uma alimentação melhor            |
-| Seus Hobbies                                                                                                             | Vai na academia todos os dias, adora passar o tempo com o seu cachorro e ama muito a sua profissão            |
-| Frustrações                                                                                                              | Perdeu um ente querido devido a falta de informação            |
+| Aplicativos preferidos | Linkedin, Twitter, Whatsapp, Facebook e Instagram |
+| Motivações | Dedica a sua vida aa ajudar as pessoas terem uma alimentação melhor |
+| Seus Hobbies | Vai na academia todos os dias, adora passar o tempo com o seu cachorro e ama muito a sua profissão |
+| Frustrações | Perdeu um ente querido devido a falta de informação |
 
 ## Histórias de Usuários
 

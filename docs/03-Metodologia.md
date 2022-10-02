@@ -1,18 +1,18 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A aplicação será desenvolvida utilizando a linguagem de marcação HTML5 e com formatação CSS3. A programação da aplicação será feita com a linguagem Javascript com a utilizização do editor de código-fonte, Visual Studio Code. Todo o versionamento do projeto será feito com o repositório do Github. Já o método de gestão utilizado será a metodologia ágil SCRUM.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+## Relação de Ambientes de trabalhos
 
+Os artefatos do projeto são criados em diversas plataformas e sua respectiva finalidade se encontram na tabela a seguir:
 
-
-Ambiente                                 | Plataforma  |  Link de Acesso
------------------------------------------|-------------|---------------------------------------------------------------
- Repositório de código fonte             |   Github    |     
- Documentos do projeto                   |             |  
- Projeto de Interface e  Wireframes      |             |
- Gerenciamento do Projeto                |             | 
+|     Ambiente                    |   Plataforma & link de acesso                                                             |
+|---------------------------------|-------------------------------------------------------------------------------------------|
+|Repositório de código fonte      | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-restringindo-restricoes/)|
+|Documentos do projeto            | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-restringindo-restricoes/tree/main/docs/)| 
+|Projeto de Interface e Wireframes|  |
+|Gerenciamento do Projeto         |  | 
 
 ## Controle de Versão
 
@@ -35,29 +35,9 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
-
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
-### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Coloque informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -67,20 +47,22 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas utilizadas no projeto estão abaixo catalogadas:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+**Editores de Código:**
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+> - [Github](https://github.com/): Ferramenta utilizada tanto como editor de código quanto como ferramenta de organização, serve como local síncrono de armazenamento e edição do repositório do projeto.
+> - [Visual Studio Code](https://code.visualstudio.com/): Ferramenta utilizada em conjunto com o Github para a confecção de códigos mais complexos.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+**Ferramentas de Comunicação e Organização:**
+
+> - [Discord](https://discord.com/): Ferramenta utilizada para realizar as reuniões da equipe, também foi usado no compartilhamento de arquivos.
+> - [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software/): Ferramenta usada para conectar a equipe e a coordenadora do projeto, foram realizadas reuinões semanais.
+> - [Google Docs](https://docs.google.com/document/u/0/?hl=pt-BR/): Ferramenta utilizada em suas diversas funcionalidades. O Documentos Google foi utilizado para a documentação do projeto, e o Apresentações Google foi usado na criação da apresentação do projeto. E por fim o Planilhas Google foi usado para levantar os requisitos da aplicação
+> - []: Organização e separação
+
+**Ferramentas de Desenho de Tela (_wireframing_):**
+
+> - []
+> - []
+> - []

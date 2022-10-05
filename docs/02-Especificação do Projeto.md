@@ -43,7 +43,7 @@ A partir da compreensão da rotina das personas identificadas no projeto, foram 
 | Eu como...`PERSONA`      | ...quero/desejo...`FUNCIONALIDADE`                                                                                              | ... para...`MOTIVO/VALOR`                                                                                |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Vilma Carminatti         | Acessar receitas livres de lactose sempre que precisar | Construir em cima disso uma dieta livre de laticínios |
-| Vilma Carminatti         | ter informações detalhadas de todos os ingredientes de acordo com o meu gosto | Dar um foco relacionado com as minhas preferências |
+| Vilma Carminatti         | Ter informações detalhadas de todos os ingredientes de acordo com o meu gosto | Dar um foco relacionado com as minhas preferências |
 | Humberto Guerini         | Fazer comentários em receitas e dar a minha opinião | Discutir com pessoas de interesse em comum |
 | Humberto Guerini         | Checar as top receitas da semana | Sempre estar experimentando algo novo |
 | Rosali Quintela          | Participar ativamente em um blog | Compartilhar receitas e dicas para o restante da comunidade |
@@ -59,22 +59,25 @@ O escopo do projeto foi desenvolvido através da análise dos perfis de usuário
 |ID | Descrição do Requisito | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| O site deve conter um blog interno                                                      | ALTA  |
-|RF-02| O site deve manter receitas                                                             | MÉDIA |
-|RF-03| O site precisa oferecer um menu de navegação amigável                                   | ALTA  |
+|RF-02| O site deve manter receitas                                                             | ALTA  |
+|RF-03| O site precisa ter uma barra de pesquisa e permitir filtragens                          | ALTA  |
 |RF-04| O site vai oferecer recomendações de receitas com base na receita acessada              | MÉDIA |
-|RF-05| O site permitirá interação entre usuários através de campos de comentários              | BAIXA |
-|RF-06| O site terá compartilhamento das receitas visualizadas nas plataformas de redes sociais | BAIXA |
-|RF-07| O site permite que o usuário visualize as informações de contatos do gerenciador        | BAIXA | 
+|RF-05| O site deve ter um sistema de avaliação de receitas                                     | MÉDIA |
+|RF-06| O site permitirá interação entre usuários através de campos de comentários              | BAIXA |
+|RF-07| O site terá compartilhamento das receitas visualizadas nas plataformas de redes sociais | BAIXA |
+|RF-08| O site permite que o usuário visualize as informações de contatos do gerenciador        | BAIXA |                                  
 
 
 ### Requisitos não Funcionais
 
 |ID | Descrição do Requisito | Prioridade |
 |------|-----------------------------------------|----|
-|RNF-01| A aplicação Web deve ter um layout responsivo permitindo a utilização em diversos tipos de tela | ALTA | 
-|RNF-02| A aplicação precisa ter compatibilidade com os principais navegadores                           | ALTA |
-|RNF-03| O site deve ser otimizado com recursos que viabilizem a acessibilidade                          | MÉDIA |
-|RNF-04| O site deve ser publicado em um repositório público acessível, como o Github                    | MÉDIA |
+|RNF-01| O site precisa oferecer um menu de navegação amigável                                           | ALTA |
+|RNF-02| A aplicação Web deve ter um layout responsivo permitindo a utilização em diversos tipos de tela | ALTA | 
+|RNF-03| A aplicação precisa ter compatibilidade com os principais navegadores                           | ALTA |
+|RNF-04| O site deve ser otimizado com recursos que viabilizem a acessibilidade                          | MÉDIA |
+|RNF-05| O site deve ser publicado em um repositório público acessível, como o Github                    | MÉDIA |
+
 
 ## Restrições
 

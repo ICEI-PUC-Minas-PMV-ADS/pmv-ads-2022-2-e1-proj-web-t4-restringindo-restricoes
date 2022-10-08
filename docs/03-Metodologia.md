@@ -44,7 +44,8 @@ A metodologia *scrum* foi conjugada com o método *kanban* de forma a tornar vis
 * *Tarefas*: tarefas identificadas e necessárias para a criação;
 * *A Fazer*: tarefas que terão que ser realizadas;
 * *Em Andamento*: tarefas que foram iniciadas e estão sendo feitas;
-* *Concluído*: tarefas que foram concluídas.
+* *Concluído*: tarefas que foram concluídas;
+* *Gargalo*: tarefas que por quaisquer motivos estão demorando para serem realizadas.
 
 ### Ferramentas
 

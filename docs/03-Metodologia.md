@@ -39,11 +39,12 @@ etiquetas:
 
 Coloque informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A metodologia *scrum* foi conjugada com o método *kanban* de forma a tornar visual a distribuição de tarefas.
+
+* *Tarefas*: tarefas identificadas e necessárias para a criação;
+* *A Fazer*: tarefas que terão que ser realizadas;
+* *Em Andamento*: tarefas que foram iniciadas e estão sendo feitas;
+* *Concluído*: tarefas que foram concluídas.
 
 ### Ferramentas
 
@@ -63,6 +64,4 @@ As ferramentas utilizadas no projeto estão abaixo catalogadas:
 
 **Ferramentas de Desenho de Tela (_wireframing_):**
 
-> - []
-> - []
-> - []
+> - [Marvel](https://marvelapp.com/): Foi utilizado o Marvel para o desenvolvimento dos wireframes

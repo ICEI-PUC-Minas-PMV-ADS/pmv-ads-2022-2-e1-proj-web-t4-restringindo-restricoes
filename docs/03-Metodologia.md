@@ -47,6 +47,10 @@ A metodologia *scrum* foi conjugada com o método *kanban* de forma a tornar vis
 * *Concluído*: tarefas que foram concluídas;
 * *Gargalo*: tarefas que por quaisquer motivos estão demorando para serem realizadas.
 
+O quadro *kanban* do grupo desenvolvido na ferramenta de gerenciamento de projetos: 
+
+![Trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-restringindo-restricoes/blob/main/docs/img/Trello%20print.png?raw=true/)
+
 ### Ferramentas
 
 As ferramentas utilizadas no projeto estão abaixo catalogadas:

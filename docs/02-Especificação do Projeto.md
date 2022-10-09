@@ -47,6 +47,7 @@ A partir da compreensão da rotina das personas identificadas no projeto, foram 
 | Humberto Guerini         | Fazer comentários em receitas e dar a minha opinião | Discutir com pessoas de interesse em comum |
 | Humberto Guerini         | Checar as top receitas da semana | Sempre estar experimentando algo novo |
 | Rosali Quintela          | Participar ativamente em um blog | Compartilhar receitas e dicas para o restante da comunidade |
+| Rosali Quintela          | Entrar em contato com os administradores da aplicação | Formar futuras parcerias |
 | Vilma Carminatti         | Ter suas receitas salvas | Acessá-las mais tarde ou compartilhar |
 | Rosali Quintela          | Compartilhar as receitas em redes sociais | Discutir com os meus amigos sobre as receitas em questão |
 
@@ -59,13 +60,15 @@ O escopo do projeto foi desenvolvido através da análise dos perfis de usuário
 |ID | Descrição do Requisito | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| O site deve conter um blog interno                                                      | ALTA  |
-|RF-02| O site deve manter receitas                                                             | ALTA  |
+|RF-02| O site deve permitir que o usuário salve suas receitas                                  | ALTA  |
 |RF-03| O site precisa ter uma barra de pesquisa e permitir filtragens                          | ALTA  |
-|RF-04| O site vai oferecer recomendações de receitas com base na receita acessada              | MÉDIA |
+|RF-04| As receitas deverão exbir informações detalhadas                                        | ALTA  | 
 |RF-05| O site deve ter um sistema de avaliação de receitas                                     | MÉDIA |
-|RF-06| O site permitirá interação entre usuários através de campos de comentários              | BAIXA |
-|RF-07| O site terá compartilhamento das receitas visualizadas nas plataformas de redes sociais | BAIXA |
-|RF-08| O site permite que o usuário visualize as informações de contatos do gerenciador        | BAIXA |                                  
+|RF-06| O site deve exibir as receitas mais avaliadas no campo "*top receitas*"                 | MÉDIA |
+|RF-07| O site permitirá interação entre usuários através de campos de comentários              | BAIXA |
+|RF-08| O site terá compartilhamento das receitas visualizadas nas plataformas de redes sociais | BAIXA |
+|RF-09| O site permite que o usuário visualize as informações de contatos do gerenciador        | BAIXA |
+
 
 
 ### Requisitos não Funcionais

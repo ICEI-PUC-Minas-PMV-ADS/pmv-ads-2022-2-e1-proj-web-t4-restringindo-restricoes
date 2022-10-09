@@ -11,7 +11,7 @@ Os artefatos do projeto são criados em diversas plataformas e sua respectiva fi
 |---------------------------------|-------------------------------------------------------------------------------------------|
 |Repositório de código fonte      | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-restringindo-restricoes/)|
 |Documentos do projeto            | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-restringindo-restricoes/tree/main/docs/)| 
-|Projeto de Interface e Wireframes| [Marvel]( |
+|Projeto de Interface e Wireframes| [Marvel](https://marvelapp.com/prototype/6610j05/screen/88954203/)|
 |Gerenciamento do Projeto         | [Trello](https://trello.com/b/zd6wGxNt/puc-mg/) | 
 
 ## Controle de Versão

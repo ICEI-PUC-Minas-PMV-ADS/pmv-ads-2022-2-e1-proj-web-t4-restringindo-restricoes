@@ -20,7 +20,7 @@ O diagrama de componentes apresenta os seguinte itens:
 
 ## Tecnologias Utilizadas
 
-O projeto irá se utilizar de arquivos HTML, CSS e JavaScript para sua execução, sendo desenvolvido atravéz do IDE Visual Studio Code. Como objetivo geral a plataforma irá conter:
+O projeto irá utilizar das tecnologias de arquivos HTML, CSS e JavaScript para sua execução, sendo desenvolvido atravéz do IDE Visual Studio Code. Como objetivo geral a plataforma irá conter:
 - Landing page com uma barra de pesquisas para busca de receitas;
 - Top receitas mais acessadas na “landing page”;
 - Menu de navegação no topo da página (barra horizontal: início, sobre, receitas, contato, blog); 

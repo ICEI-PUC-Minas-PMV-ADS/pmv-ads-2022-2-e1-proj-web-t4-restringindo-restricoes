@@ -11,8 +11,8 @@ Os artefatos do projeto são criados em diversas plataformas e sua respectiva fi
 |---------------------------------|-------------------------------------------------------------------------------------------|
 |Repositório de código fonte      | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-restringindo-restricoes/)|
 |Documentos do projeto            | [Github](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t4-restringindo-restricoes/tree/main/docs/)| 
-|Projeto de Interface e Wireframes|  |
-|Gerenciamento do Projeto         |  | 
+|Projeto de Interface e Wireframes| [Marvel]( |
+|Gerenciamento do Projeto         | [Trello](https://trello.com/b/zd6wGxNt/puc-mg/) | 
 
 ## Controle de Versão
 
@@ -64,9 +64,9 @@ As ferramentas utilizadas no projeto estão abaixo catalogadas:
 
 > - [Discord](https://discord.com/): Ferramenta utilizada para realizar as reuniões da equipe, também foi usado no compartilhamento de arquivos.
 > - [Microsoft Teams](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software/): Ferramenta usada para conectar a equipe e a coordenadora do projeto, foram realizadas reuinões semanais.
-> - [Google Docs](https://docs.google.com/document/u/0/?hl=pt-BR/): Ferramenta utilizada em suas diversas funcionalidades. O Documentos Google foi utilizado para a documentação do projeto, e o Apresentações Google foi usado na criação da apresentação do projeto. E por fim o Planilhas Google foi usado para levantar os requisitos da aplicação
-> - []: Organização e separação
+> - [Google Docs](https://docs.google.com/document/u/0/?hl=pt-BR/): Ferramenta utilizada em suas diversas funcionalidades. O Documentos Google foi utilizado para a documentação do projeto, e o Apresentações Google foi usado na criação da apresentação do projeto. E por fim o Planilhas Google foi usado para levantar os requisitos da aplicação.
+> - [Trello](https://www.trello.com/): Organização e separação foi feita através do Trello, aplicativo de gerenciamento de projeto.
 
 **Ferramentas de Desenho de Tela (_wireframing_):**
 
-> - [Marvel](https://marvelapp.com/): Foi utilizado o Marvel para o desenvolvimento dos wireframes
+> - [Marvel](https://marvelapp.com/): Foi utilizado o Marvel para o desenvolvimento dos wireframes.

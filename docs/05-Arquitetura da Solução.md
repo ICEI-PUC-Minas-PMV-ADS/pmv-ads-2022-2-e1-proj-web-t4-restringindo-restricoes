@@ -11,12 +11,12 @@ Os componentes representados pela Figura 01 a seguir, fazem parte da solução e
 
 O diagrama de componentes apresenta os seguinte itens:
 - **Browser** - Interface básica do navegador utilizado pelo usuário.
-  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+  - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema na qual o usuário irá interagir.
+   - **Local Storage** - armazenamento de dados mantido no Navegador do usuário, onde são implementados bancos de dados baseados em JSON. Sendo eles: 
      - **Comentários** - registro das opiniões dos usuários sobre as receitas 
      - **Avaliações** - registro de avaliações dos usuários sobre as receitas
      - **Top receitas** - registro de receitas mais bem avaliadas pelos usuários
- - **Hospedagem** - Plataforma na internet na qual as paginas seram mantidas e acessadas pelo navegador dos usuários. 
+ - **Hospedagem** - Plataforma na internet na qual as páginas seram mantidas e acessadas pelo navegador dos usuários. 
 
 ## Tecnologias Utilizadas
 

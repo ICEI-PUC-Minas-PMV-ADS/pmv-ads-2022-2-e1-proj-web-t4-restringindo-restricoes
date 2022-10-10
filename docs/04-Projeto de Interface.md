@@ -5,7 +5,7 @@ O projeto de interface foi desenvolvido tendo como meta a acessibilidade e a fá
 
 ## Fluxo do Usuário
 
-Foi desenvolvido um diagrama para representação do fluxo do usuário com objetivo de mapear as possíveis interações do usuário com as diferentes telas do site, conforme a Figura 01. O detalhamento das diferentes telas segue na seção de Wireframes na sequência.
+Foi desenvolvido um diagrama para representação do fluxo do usuário com objetivo de mapear as possíveis interações do usuário com as diferentes telas do site, conforme apresentado abaixo. O detalhamento das diferentes telas segue na seção de Wireframes em sequência.
 
 ![Fluxo de Usuários](img/FU-Fluxo-de-Usuários.png)
 

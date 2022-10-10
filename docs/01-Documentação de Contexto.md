@@ -12,10 +12,10 @@ Ausência ou limitação de informações e recursos centralizados, específicos
 O objetivo geral do projeto se volta ao desenvolvimento de uma plataforma acessível e interativa para a oferta de recursos e informações sobre a alimentação, com ênfase em conteúdos para pessoas com restrição alimentar, interesses ou paladar limitado. 
 Especificamente, destacam-se os objetivos a seguir:
 
-• Fornecer uma plataforma de receitas acessível e intuitiva com ênfase em oferecer conteúdos para pessoas com restrições alimentares diversas;
-• Ampliar conhecimento do público-alvo quanto a alimentação, perpassando as restrições alimentares, com ênfase especial no potencial nutricional e melhoras na saúde e qualidade de vida das pessoas;
-• Introduzir uma plataforma com o potencial de viabilizar a criação de uma “comunidade” voltada à promoção de conteúdos para pessoas com restrição alimentar, interesses ou paladar limitado;
-• Suprir uma necessidade do mercado ao permitir adaptações à realidade de quem possui alguma restrição alimentar.
+• Fornecer uma plataforma de receitas acessível e intuitiva com ênfase em oferecer conteúdos para pessoas com restrições alimentares diversas;<br>
+• Ampliar conhecimento do público-alvo quanto a alimentação, perpassando as restrições alimentares, com ênfase especial no potencial nutricional e melhoras na saúde e qualidade de vida das pessoas;<br>
+• Introduzir uma plataforma com o potencial de viabilizar a criação de uma “comunidade” voltada à promoção de conteúdos para pessoas com restrição alimentar, interesses ou paladar limitado;<br>
+• Suprir uma necessidade do mercado ao permitir adaptações à realidade de quem possui alguma restrição alimentar.<br><br>
 
 ## Justificativa
 

@@ -44,7 +44,7 @@ A partir da compreensão da rotina das personas identificadas no projeto, foram 
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Vilma Carminatti         | Acessar receitas livres de lactose sempre que precisar | Construir em cima disso uma dieta livre de laticínios |
 | Vilma Carminatti         | Ter informações detalhadas de todos os ingredientes de acordo com o meu gosto | Dar um foco relacionado com as minhas preferências |
-| Humberto Guerini         | Fazer comentários em receitas e dar a minha opinião | Discutir com pessoas de interesse em comum |
+| Humberto Guerini         | Fazer comentários em receitas, avaliar e dar a minha opinião | Discutir com pessoas de interesse em comum |
 | Humberto Guerini         | Checar as top receitas da semana | Sempre estar experimentando algo novo |
 | Rosali Quintela          | Participar ativamente em um blog | Compartilhar receitas e dicas para o restante da comunidade |
 | Rosali Quintela          | Entrar em contato com os administradores da aplicação | Formar futuras parcerias |
@@ -61,8 +61,8 @@ O escopo do projeto foi desenvolvido através da análise dos perfis de usuário
 |------|-----------------------------------------|----|
 |RF-01| O site deve conter um blog interno                                                      | ALTA  |
 |RF-02| O site deve permitir que o usuário salve suas receitas                                  | ALTA  |
-|RF-03| O site precisa ter uma barra de pesquisa e permitir filtragens                          | ALTA  |
-|RF-04| As receitas deverão exbir informações detalhadas                                        | ALTA  | 
+|RF-03| O site precisa permitir pesquisas com filtros                                           | ALTA  |
+|RF-04| As receitas deverão exibir informações detalhadas dos processos e ingredientes          | ALTA  | 
 |RF-05| O site deve ter um sistema de avaliação de receitas                                     | MÉDIA |
 |RF-06| O site deve exibir as receitas mais avaliadas no campo "*top receitas*"                 | MÉDIA |
 |RF-07| O site permitirá interação entre usuários através de campos de comentários              | BAIXA |

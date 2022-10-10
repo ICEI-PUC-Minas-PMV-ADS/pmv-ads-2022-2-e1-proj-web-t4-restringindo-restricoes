@@ -21,7 +21,19 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+**1. Página Inicial**
+
+![P1 - Página Inicial](img/WF-Pag-1-Pagina-Inicial.png)
+
+
+
+![P2 - Busca e Categorias de Receitas](img/WF-Pag-2-Busca-Categoria.png)
+![P3 - Receita](img/WF-Pag-3-Receita.png)
+![P4 - Página de Blog](img/WF-Pag-4-Blog.png)
+![P5 - Página Sobre](img/WF-Pag-5-Sobre.png)
+![P6 - Página de Contato](img/WF-Pag-6-Contato.png))
+
+
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  

@@ -8,7 +8,7 @@ Para melhor compreensão do contexto e problema, foram criadas personas de acord
 
 ## `VILMA CARMINATTI DUARTE`
 
-|![Persona - Vilma](img/Persona-1-Vilma.png)| Vilma Carminatti Duarte, 26 anos |
+|<img src="img/Persona-1-Vilma.png" height="100">| Vilma Carminatti Duarte, 26 anos |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | Ocupação | RH numa empresa de médio porte |
 | Aplicativos preferidos | Instagram, Facebook, Youtube e Linkedin |
@@ -18,7 +18,7 @@ Para melhor compreensão do contexto e problema, foram criadas personas de acord
 
 ## `HUMBERTO GUERINI DE OLIVEIRA`
 
-|![Persona - Humberto](img/Persona-2-Humberto.png)| Humberto Guerini de Oliveira, 42 anos |
+|<img src="img/Persona-2-Humberto.png" height="100">| Humberto Guerini de Oliveira, 42 anos |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | Ocupação | Motorista de aplicativo em duas empresas diferentes |
 | Aplicativos preferidos | Twitter, Whatsapp, Apps de carona e GPS |
@@ -28,7 +28,7 @@ Para melhor compreensão do contexto e problema, foram criadas personas de acord
 
 ## `ROSALI QUINTELA STUTZ`
 
-|![Persona - Rosali](img/Persona-3-Rosali.png)| Rosali Quintela Stutz, 32 anos                                                                                      |
+|<img src="img/Persona-3-Rosali.png" height="100">| Rosali Quintela Stutz, 32 anos                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | Ocupação | Nutricionista comportamental em um consultório |
 | Aplicativos preferidos | Linkedin, Twitter, Whatsapp, Facebook e Instagram |

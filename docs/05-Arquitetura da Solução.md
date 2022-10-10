@@ -4,10 +4,10 @@ A partir de uma solução elaborada pela equipe, foram definidos nesse tópico o
 
 ## Diagrama de componentes
 
-Os componentes representados pela Figura 01 a seguir, fazem parte da solução elaborada para o projeto.
+Os componentes representados pela Figura 08 a seguir, fazem parte da solução elaborada para o projeto.
 
 ![Diagrama de Componentes](img/internet.png)
-<center> Figura 01 - Arquitetura da Solução </center>
+<center> Figura 08 - Arquitetura da Solução </center>
 
 O diagrama de componentes apresenta os seguinte itens:
 - **Browser** - Interface básica do navegador utilizado pelo usuário.

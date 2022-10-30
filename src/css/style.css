@@ -1,3 +1,18 @@
+/* Corpo - Início */
+
+/* Categorias - Início */
+
+.wbs-categoria {
+	
+	padding-top: calc(0.75em - 1px);
+	
+}
+/* Categorias - Fim */
+
+/* Corpo - Fim */
+
+/* Rodapé - Início */
+
 footer {
 	
 	padding-left: calc(0.75em - 1px);
@@ -17,3 +32,5 @@ footer {
   max-width: 100%;
   width: 60%;
 }
+
+/* Rodapé - Fim */

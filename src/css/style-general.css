@@ -1,0 +1,257 @@
+html, body {
+	font-family: 'PT Sans', sans-serif;
+}
+
+/* Estilo do cabeçalho */
+.cabecalho-secao {
+	padding-top: 65px;
+	padding-bottom: 30px;
+}
+
+.cabecalho-secao .logo {
+	text-align: center;
+	margin-bottom: 92px;
+}
+
+.cabecalho-secao .logo a {
+	display: inline-block;
+}
+
+.cabecalho-secao .nav-menu {
+	position: relative;
+}
+
+.cabecalho-secao .nav-menu .menu-principal {
+	text-align: center;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li {
+	display: inline-block;
+	margin-right: 60px;
+	position: relative;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li:last-child {
+	margin-right: 0;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li:last-child:after {
+	display: none;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li:hover a {
+	color: #FC0254;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li:hover a:after {
+	opacity: 1;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li.active a {
+	color: #FC0254;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li.active a:after {
+	opacity: 1;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li:after {
+	position: absolute;
+	right: -35px;
+	top: 4px;
+	height: 21px;
+	width: 2px;
+	background: #BBBCC0;
+	content: "";
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li a {
+	color: #353535;
+	font-size: 20px;
+	font-weight: 700;
+	padding: 5px;
+	position: relative;
+	text-decoration: none;
+	transition: all 0.2s;
+	-webkit-transition: all 0.2s;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li a:after {
+	position: absolute;
+	left: 0;
+	bottom: -3px;
+	width: 100%;
+	height: 2px;
+	background: #FC0254;
+	content: "";
+	opacity: 0;
+	-webkit-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul li:hover .sub-menu {
+	visibility: visible;
+	opacity: 1;
+	margin-top: 16px;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul .sub-menu {
+	position: absolute;
+	list-style: none;
+	width: 220px;
+	left: 0;
+	top: 100%;
+	padding: 20px 0 10px;
+	visibility: hidden;
+	opacity: 0;
+	margin-top: 50px;
+	text-align: left;
+	background: #fff;
+	z-index: 99;
+	-webkit-transition: all 0.4s;
+	transition: all 0.4s;
+	-webkit-box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.05);
+	box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.05);
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul .sub-menu li {
+	display: block;
+	margin-right: 0;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul .sub-menu li:after {
+	display: none;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul .sub-menu li a {
+	display: block;
+	color: #000;
+	margin-left: 0;
+	padding: 5px 20px;
+	font-size: 16px;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul .sub-menu li a:after {
+	display: none;
+}
+
+.cabecalho-secao .nav-menu .menu-principal ul .sub-menu li a:hover {
+	color: #FC0254;
+}
+
+/* Fim do estilo do cabeçalho */
+
+/* Começo do estilo do rodapé */
+
+.rodape-secao {
+	background: #EAEDF2;
+	padding-top: 70px;
+}
+
+.rodape-secao .rp-esq {
+	margin-bottom: 31px;
+}
+
+.rodape-secao .rp-esq .logo {
+	margin-bottom: 34px;
+}
+
+.rodape-secao .rp-esq .logo a {
+	display: inline-block;
+}
+
+.rodape-secao .rp-esq p {
+	color: #7a818d;
+}
+
+.rodape-secao .formulario-inscricao {
+	margin-bottom: 38px;
+	padding-top: 25px;
+}
+
+.rodape-secao .formulario-inscricao h3 {
+	color: #353535;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.rodape-secao .formulario-inscricao input {
+	width: calc(100% - 225px);
+	height: 64px;
+	border: 1px solid #fff;
+	display: inline-block;
+	margin-right: 15px;
+	padding-left: 34px;
+	padding-right: 10px;
+	font-size: 16px;
+	font-style: italic;
+	color: #353535;
+}
+
+.rodape-secao .formulario-inscricao input::-webkit-input-placeholder {
+	color: #353535;
+}
+
+.rodape-secao .formulario-inscricao input::-moz-placeholder {
+	color: #353535;
+}
+
+.rodape-secao .formulario-inscricao input:-ms-input-placeholder {
+	color: #353535;
+}
+
+.rodape-secao .formulario-inscricao input::-ms-input-placeholder {
+	color: #353535;
+}
+
+.rodape-secao .formulario-inscricao input::placeholder {
+	color: #353535;
+}
+
+.rodape-secao .formulario-inscricao button {
+	border: 1px solid #FC0254;
+	background: #FC0254;
+	font-size: 18px;
+	font-weight: 700;
+	color: #fff;
+	padding: 17px 40px;
+	display: inline-block;
+	cursor: pointer;
+	min-width: 205px;
+}
+
+.rodape-secao .social-links a {
+	display: inline-block;
+	margin-right: 35px;
+	margin-bottom: 15px;
+}
+
+.rodape-secao .social-links a:hover i {
+	color: #0DB1F6;
+}
+
+.rodape-secao .social-links a i {
+	color: #B8C1D0;
+	font-size: 28px;
+	float: left;
+	margin-right: 22px;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.rodape-secao .social-links a span {
+	color: #fff;
+	float: left;
+	line-height: 27px;
+	font-size: 12px;
+	color: #8f8f8f;
+	text-transform: uppercase;
+}
+
+.rodape-secao .copyright-text {
+	font-size: 14px;
+	color: #b8c1d0;
+	padding-top: 50px;
+	padding-bottom: 8px;
+}
+

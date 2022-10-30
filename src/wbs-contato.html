@@ -1,18 +1,101 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
 
-	<head>
-	
-	</head>
-	<header>
-	</header>
-	
-	
-	<body>
-		
-		<h1>Page Inicial</h1>
-		
-	</body>
-	
-	<footer>
-	</footer>
-</html>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+        
+        <link rel="stylesheet" href="./css/style.css"  />
+        <link rel="stylesheet" href="./css/reset.css"  />
+        <link rel="stylesheet" href="./css/contato.css"/>
+        <link rel="stylesheet" href="./css/bootstrap.min.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+
+        <title>Restringindo Restrições</title>
+
+    </head>
+
+    <header class="cabecalho-secao">
+        <div class="container">
+            <div class="logo">
+                <a href="./home.html"><img src="img/logo.png" alt=""></a>
+            </div>
+            <div class="nav-menu">
+                <nav class="menu-principal mobile-menu">
+                    <ul>
+                        <li class="active"><a href="home.html">Início</a></li>
+                        </li>
+                        <li><a href="receitas.html">Receitas</a></li>
+                        <li><a href="contatos.html">Contato</a></li>
+                        <li><a href="blog.html">Blog</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+        <form>
+            <label for="nomeesobrenome">Nome e sobrenome</label>
+            <input type="text" id="nomeesobrenome" class="input-padrao" required> 
+
+            <label for="email">Email</label>
+            <input type="text" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
+    
+            <label for="telefone">Telefone</label>
+            <input type="text" id="telefone" class="input-padrao" required placeholder="(XX) XXXXX XXXX">
+
+            <label for="mensagem">Nos deixe uma mensagem</label>
+            <textarea cols="70" rows="10" id="mensagem" style="margin-bottom: 15px; border-radius: 15px;" required placeholder="Eu gostaria de..."></textarea>
+
+    <fieldset>
+        <legend>Como prefere o nosso contato?</legend>
+        <label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">Email</label>
+
+        <label for="radio-telefone"><input type="radio" name="contato" value="telefone" id="radio-telefone">Telefone
+        </label>
+
+        <label for="radio-whatsapp"><input type="radio" name="contato" value="whatsapp" id="radio-whatsapp" checked>Whatsapp
+        </label>
+    </fieldset>
+
+    <label class="checkbox"><input type="checkbox">Gostaria de receber nossas novidades por e-mail?</label>
+
+    <input type="submit" value="Enviar" class="enviar-formulario">
+</form>
+
+<footer class="rodape-secao">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="rp-esq">
+                    <div class="logo">
+                        <a href="./home.html">
+                            <img src="img/footer-logo.png" alt="">
+                        </a>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
+                        viverra maecenas accumsan lacus vel facilisis.</p>
+                </div>
+            </div>
+            <div class="col-lg-6 offset-lg-1">
+                <form action="#" class="formulario-inscricao">
+                    <h3>Inscreva-se para receber receitas no e-mail</h3>
+                    <input type="email" placeholder="Seu e-mail">
+                    <button type="submit">E-mail</button>
+                </form>
+                <div class="social-links">
+                    <a href="#"><i class="fa fa-instagram"></i><span>Instagram</span></a>
+                    <a href="#"><i class="fa fa-pinterest"></i><span>Pinterest</span></a>
+                    <a href="#"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+                    <a href="#"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+                    <a href="#"><i class="fa fa-youtube"></i><span>Youtube</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

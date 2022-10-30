@@ -52,3 +52,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Armazenamento da Apresentação
 
 * <a href="presentation/README.md">Apresentação da solução</a>
+
+<li><a href="src/wbs-categoria.html">Teste de Acesso</a></li>

@@ -1,0 +1,44 @@
+html, body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+form {
+    padding-left: 25px;
+    margin: 40px 0px
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+    border-radius: 15px;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+.enviar-formulario {
+    width: 40%;
+    padding: 15px 0;
+    background-color: #fc0254;
+    color: white;
+    font-weight: bold;
+    border: none;
+    font-size: 18px;
+    border-radius: 5px; 
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar-formulario:hover {
+    background-color: darkorange;
+    transform: scale(1.05);
+}

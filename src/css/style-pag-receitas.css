@@ -1,0 +1,679 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css");
+
+/* BODY */
+
+body {
+  height: 100%;
+  font-family: "PT Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* HEADER   */
+
+.header-section {
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
+}
+
+.header-section .logo {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header-section .logo a {
+  display: inline-block;
+}
+
+.header-section .nav-menu {
+  position: relative;
+}
+
+.header-section .nav-menu .main-menu {
+  text-align: center;
+}
+
+.header-section .nav-menu .main-menu ul li {
+  display: inline-block;
+  margin-right: 60px;
+  position: relative;
+}
+
+.header-section .nav-menu .main-menu ul li:hover a {
+  color: #fc0254;
+}
+
+.header-section .nav-menu .main-menu ul li a {
+  color: #353535;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 5px;
+  position: relative;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.header-section .nav-menu .main-menu ul li:hover .sub-menu {
+  visibility: visible;
+  opacity: 1;
+  margin-top: 16px;
+}
+
+.header-section .nav-menu .main-menu ul .sub-menu {
+  position: absolute;
+  list-style: none;
+  width: 220px;
+  left: 0;
+  top: 100%;
+  padding: 20px 0 10px;
+  visibility: hidden;
+  opacity: 0;
+  margin-top: 50px;
+  text-align: left;
+  background: #fff;
+  z-index: 99;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+  -webkit-box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.05);
+  box-shadow: 2px 7px 20px rgba(0, 0, 0, 0.05);
+}
+
+.header-section .nav-menu .main-menu ul .sub-menu li {
+  display: block;
+  margin-right: 0;
+}
+
+.header-section .nav-menu .main-menu ul .sub-menu li:after {
+  display: none;
+}
+
+.header-section .nav-menu .main-menu ul .sub-menu li a {
+  display: block;
+  color: #000;
+  margin-left: 0;
+  padding: 5px 20px;
+  font-size: 16px;
+}
+
+.header-section .nav-menu .main-menu ul .sub-menu li a:after {
+  display: none;
+}
+
+.header-section .nav-menu .main-menu ul .sub-menu li a:hover {
+  color: #fc0254;
+}
+
+/* FOOTER  */
+
+.footer-section {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #a0a8b3;
+  padding: 3rem 1rem 2rem 1rem;
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-footer {
+  margin: 1rem;
+}
+
+.nav-footer a {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.nav-footer ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1rem);
+  column-gap: 3rem;
+  row-gap: 1rem;
+}
+
+.footer-section .form-inscricao {
+  margin-bottom: 1rem;
+}
+
+.footer-section .form-inscricao h4 {
+  color: #ffffff;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+.footer-section .form-inscricao input {
+  min-width: 200px;
+  height: 2.5rem;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  display: inline-block;
+  margin-right: 15px;
+  padding-left: 34px;
+  padding-right: 10px;
+  font-size: 18px;
+  color: #353535;
+}
+.footer-section .form-inscricao input::placeholder {
+  color: #a0a8b3;
+}
+.footer-section .form-inscricao button {
+  border: none;
+  background: #ffff;
+  border-radius: 10px;
+  height: 2.5rem;
+  font-size: 18px;
+  font-weight: 500;
+  color: #616169;
+  display: inline-block;
+  cursor: pointer;
+  min-width: 170px;
+}
+
+.footer-section .redes-sociais-links a {
+  display: inline-block;
+  margin-right: 35px;
+  margin-bottom: 15px;
+  color: #f5f6fa;
+}
+
+.footer-section .redes-sociais-links a:hover i {
+  color: #0db1f6;
+}
+
+/* RECEITA INICIO */
+
+.receita-page {
+  padding-bottom: 70px;
+}
+
+.receita-topo {
+  margin-bottom: 6rem;
+  padding: 0 60px;
+}
+
+.ingredientes-item {
+  border: 2px solid #f5f6fa;
+  margin-bottom: 20px;
+}
+
+.ingredientes-item .intro-item {
+  background: #a3d390;
+  text-align: center;
+  position: relative;
+  padding-top: 110px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.ingredientes-item .intro-item img {
+  height: 122px;
+  width: 122px;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  top: -38px;
+  -webkit-transform: translateX(-61px);
+  transform: translateX(-61px);
+}
+
+.ingredientes-item .intro-item h2 {
+  color: #343f4b;
+  font-weight: 700;
+  line-height: 48px;
+  margin-bottom: 15px;
+}
+
+.ingredientes-item .intro-item .rating {
+  margin-bottom: 15px;
+}
+
+.ingredientes-item .intro-item .rating i {
+  color: #fff;
+  margin-right: 2px;
+}
+
+.ingredientes-item .intro-item .rating i:last-child {
+  margin-right: 0;
+}
+
+.ingredientes-item .intro-item .reviews {
+  color: #fff;
+  font-size: 15px;
+  opacity: 0.7;
+  margin-bottom: 35px;
+}
+
+.ingredientes-item .intro-item .receita-tempo {
+  background: #343f4b;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.ingredientes-item .intro-item .receita-tempo ul li {
+  list-style: none;
+  display: inline-block;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.ingredientes-item .intro-item .receita-tempo ul li:last-child {
+  margin-right: 0;
+}
+
+.ingredientes-item .intro-item .receita-tempo ul li span {
+  font-weight: 400;
+}
+
+.ingredientes-item .lista-ingredientes {
+  padding: 22px 20px;
+}
+
+.ingredientes-item .lista-ingredientes .receita-btn {
+  margin-bottom: 2rem;
+}
+
+.receita-btn {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.ingredientes-item .lista-ingredientes .receita-btn a {
+  display: inline-block;
+  background: #a3d390;
+  color: #fff;
+  padding: 15px 50px;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item {
+  padding-left: 20px;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item h5 {
+  color: #353535;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 26px;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item .prato-1-lista {
+  margin-bottom: 44px;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item .prato-1-lista h6 {
+  color: #98a2a8;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item .prato-1-lista ul li {
+  list-style: none;
+  font-size: 16px;
+  color: #353535;
+  line-height: 36px;
+  position: relative;
+  padding-left: 38px;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item .prato-1-lista ul li:after {
+  position: absolute;
+  left: 0;
+  top: 14px;
+  width: 9px;
+  height: 9px;
+  background: #000;
+  content: "";
+  border-radius: 50%;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item .prato-2-lista {
+  margin-bottom: 30px;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item .prato-2-lista h6 {
+  color: #98a2a8;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item .prato-2-lista ul li {
+  list-style: none;
+  font-size: 16px;
+  color: #353535;
+  line-height: 36px;
+  position: relative;
+  padding-left: 38px;
+}
+
+.ingredientes-item .lista-ingredientes .lista-item .prato-2-lista ul li:after {
+  position: absolute;
+  left: 0;
+  top: 14px;
+  width: 9px;
+  height: 9px;
+  background: #000;
+  content: "";
+  border-radius: 50%;
+}
+
+.fatos-nutricionais {
+  background: #353535;
+  padding: 0 40px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.nutri-lista {
+  display: flex;
+  flex-direction: column;
+}
+
+.fatos-nutricionais .nutri-titulo {
+  overflow: hidden;
+  padding-bottom: 35px;
+  margin-left: -40px;
+  margin-right: -40px;
+  border-bottom: 2px solid #fff;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.fatos-nutricionais .nutri-titulo h6 {
+  float: left;
+  color: #fff;
+}
+
+.fatos-nutricionais ul {
+  margin-top: 23px;
+}
+
+.fatos-nutricionais ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 16px;
+  color: #fff;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+.fatos-nutricionais ul li:last-child {
+  margin-right: 0;
+}
+
+.receita-direita .receita-desc {
+  margin-bottom: 50px;
+}
+
+.receita-direita .receita-desc h3 {
+  color: #353535;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.receita-direita .receita-desc p {
+  margin-bottom: 25px;
+}
+
+.receita-direita .lista-instr {
+  margin-bottom: 42px;
+}
+
+.receita-direita .lista-instr h3 {
+  color: #353535;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.receita-direita .lista-instr ul li {
+  list-style: none;
+  color: #353535;
+  font-size: 15px;
+  line-height: 27px;
+  margin-bottom: 32px;
+  position: relative;
+  padding-left: 68px;
+}
+
+.receita-direita .lista-instr ul li span {
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: #353535;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.comentarios {
+  margin: 2rem 6rem 0rem 6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.form-floating {
+  margin: 2rem;
+}
+
+.comentarios-btn {
+  background: #a3d390;
+  border-radius: 1rem;
+  color: #fff;
+  padding: 0.5rem 2.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  outline: none;
+  margin: 1rem 2rem;
+  border: none;
+}
+
+.comentarios h3 {
+  color: black;
+}
+
+/* NOVAS RECEITAS */
+
+.novas-receitas {
+  background: #cfcfcf;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.novas-receitas h2 {
+  color: #47525e;
+  padding: 0 2rem 2rem 2rem;
+}
+
+.nova-item {
+  overflow: hidden;
+  margin-bottom: 35px;
+}
+
+.nova-item a {
+  float: left;
+  margin-right: 22px;
+}
+
+.nova-item .nova-receita-texto {
+  overflow: hidden;
+}
+
+.nova-item .nova-receita-texto .categoria-nome {
+  color: #fff;
+  background: #fc0254;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 4px 25px 4px 25px;
+}
+
+.nova-item .nova-receita-texto h6 {
+  font-weight: 700;
+  margin-top: 9px;
+  line-height: 22px;
+  color: #fff;
+}
+
+/* RESPONSIVIDADE */
+
+@media only screen and (min-width: 1550px) and (max-width: 1920px) {
+  .footer-section .container {
+    max-width: 1470px;
+  }
+  .receita-page .container {
+    max-width: 1470px;
+  }
+  .novas-receitas .container {
+    max-width: 1470px;
+  }
+}
+
+@media only screen and (min-width: 1300px) and (max-width: 1499px) {
+  .footer-section .container {
+    max-width: 1260px;
+  }
+  .receita-page .container {
+    max-width: 1260px;
+  }
+  .novas-receitas .container {
+    max-width: 1260px;
+  }
+  .receita-topo {
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1340px) {
+  .receita-topo {
+    padding: 0;
+  }
+  .footer-section .form-inscricao input {
+    margin-bottom: 15px;
+  }
+}
+
+/* Medium Device */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .footer-section .form-inscricao input {
+    margin-bottom: 15px;
+  }
+
+  .receita-topo {
+    padding: 0;
+  }
+  .ingredientes-item .lista-ingredientes .receita-btn a {
+    padding: 15px 38px;
+  }
+  .nova-item a {
+    float: none;
+    margin-right: 0;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  .nav-footer ul {
+    row-gap: 2rem;
+  }
+}
+
+/* Tablet Device */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .receita-topo {
+    padding: 0;
+  }
+  .receita-direita {
+    padding-top: 40px;
+  }
+
+  .footer-section .main-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* Large Mobile */
+
+@media only screen and (max-width: 767px) {
+  .main-menu {
+    display: none;
+  }
+
+  .header-section .logo {
+    margin-bottom: 25px;
+  }
+
+  .footer-section .main-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-section .form-inscricao input {
+    margin-bottom: 15px;
+  }
+  .footer-section .form-inscricao input {
+    width: 100%;
+  }
+
+  .receita-topo {
+    padding: 0;
+  }
+  .receita-direita {
+    padding-top: 40px;
+  }
+
+  .footer-section .redes-sociais-links a {
+    margin-right: 10px;
+  }
+}
+
+/* Small Mobile */
+
+@media (max-width: 479px) {
+  .receita-direita .lista-instr ul li {
+    padding-left: 30px;
+  }
+
+  .ingredientes-item .lista-ingredientes .receita-btn a {
+    padding: 15px 16px;
+  }
+
+  .fatos-nutricionais {
+    padding: 0 15px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+
+  .footer-section .main-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-footer ul {
+    column-gap: 5rem;
+    row-gap: 3rem;
+    margin-bottom: 3rem;
+  }
+}

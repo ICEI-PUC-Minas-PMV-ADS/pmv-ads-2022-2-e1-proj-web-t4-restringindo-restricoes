@@ -9,7 +9,7 @@ Os testes a serem realizados foram descritos nos seguintes quadros.
 
 
 |Caso de teste | CT-01 xxxxxx |
-|------|-----------------------------------------|----|
+|------|-----------------------------------------|
 |Requisitos associados| RF00 - o site deve...                                  |
 |Objetivo do teste | Verificar se... | 
 |Passos| 1 / 2 / 3                       |

@@ -81,13 +81,13 @@ Instruções de acesso
 -	Abra um navegador de Internet e informe a seguinte URL: ⦁	xxxxxxxxx
 
 
-**3. Tela de Login**
+**7. Tela de Login**
 
 
 
 
 
-**4. Tela de Cadastro**
+**8. Tela de Cadastro**
 
 
 

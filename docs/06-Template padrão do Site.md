@@ -1,12 +1,66 @@
 # Template padrão do site
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+O template padrão de layout do projeto segue conforme foi desenvolvido no tópico de projeto de interface anteriormente, conforme mostrado a seguir.
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+// ![IMAGEM DA HOME PAGE](link da imagem home page)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+O template do projeto desenvolvido está disponivel no link ... sendo composto pelos layouts:
+> - Página Inicial
+> - Tela de busca
+> - Tela de Receitas
+> - Tela de Blog
+> - Tela de Contato
+> - Tela de Sobre e Estatísticas
+> - Tela de Login
+> - Tela de Cadastro
+
+**1. Página Inicial**
+
+Tela que abrange o conteúdo inicial do site e receitas diversas para interação do usuário.
+
+IMAGEM DA TELA
+
+
+**2. Tela de Busca**
+
+Tela para navegação e pesquisa de receitas a serem exploradas pelo usuário.
+
+IMAGEM DA TELA
+
+**3. Tela de Receitas**
+
+Tela de exibição e interação do usuário com o conteúdo das receitas.
+
+IMAGEM DA TELA
+
+**4. Tela de Blog**
+
+Tela com informações e que possam atrair a leitura e conhecimento dos usuários.
+
+IMAGEM DA TELA
+
+**5. Tela de Contato**
+
+Tela com formulário para contato dos usuários com a administração do site.
+
+IMAGEM DA TELA
+
+**6. Tela de Sobre e Estatísticas**
+
+Tela de exibição da proposta e história do projeto.
+
+IMAGEM DA TELA
+
+**7. Tela de Login**
+
+Tela para o usuário acessar sua conta.
+
+IMAGEM DA TELA
+
+**8. Tela de Cadastro**
+
+Tela para cadastro do usuário.
+
+IMAGEM DA TELA
+
+

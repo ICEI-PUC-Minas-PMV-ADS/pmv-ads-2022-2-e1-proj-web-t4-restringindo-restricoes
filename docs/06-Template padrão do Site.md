@@ -31,7 +31,7 @@ IMAGEM DA TELA
 
 Tela de exibição e interação do usuário com o conteúdo das receitas.
 
-IMAGEM DA TELA
+![Tela de Receitas](img/pagina-receitas.png)
 
 **4. Tela de Blog**
 
@@ -49,7 +49,7 @@ IMAGEM DA TELA
 
 Tela de exibição da proposta e história do projeto.
 
-IMAGEM DA TELA
+![Tela Sobre e Estatísticas](img/pagina-sobre.png)
 
 **7. Tela de Login**
 

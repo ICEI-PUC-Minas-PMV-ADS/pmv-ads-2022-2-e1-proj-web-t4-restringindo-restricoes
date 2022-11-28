@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="./css/reset.css"/>
         <link rel="stylesheet" href="./css/contato.css"/>
         <link rel="stylesheet" href="./css/bootstrap.min.css"/>
+        <script type="text/javascript" src="index.js"></script>
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,35 +37,40 @@
             </div>
         </div>
     </header>
+<body>
 
         <form>
-            <label for="nomeesobrenome">Nome e sobrenome</label>
-            <input type="text" id="nomeesobrenome" class="input-padrao" required> 
+                <label for="nome">Nome</label>
+                <input name="nome" id="nomeesobrenome" class="input-padrao" minlength="3" type="text" placeholder="Nome e sobrenome" required>
 
-            <label for="email">Email</label>
-            <input type="text" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
-    
-            <label for="telefone">Telefone</label>
-            <input type="text" id="telefone" class="input-padrao" required placeholder="(XX) XXXXX XXXX">
+                <label for="email">Email</label>
+                <input name="email" id="email" class="input-padrao" minlength="4" type="email" placeholder="seuemail@domínio.com" required>
+                
+        
+                <label for="telefone">Telefone</label>
+                <input name="telefone" id="telefone" class="input-padrao" minlength="11" placeholder="(XX) XXXXX XXXX" type="text" required>
 
-            <label for="mensagem">Nos deixe uma mensagem</label>
-            <textarea cols="70" rows="10" id="mensagem" style="margin-bottom: 15px; border-radius: 15px;" required placeholder="Eu gostaria de..."></textarea>
+                <label for="mensagem">Nos deixe uma mensagem</label>
+                <textarea cols="70" rows="10" id="mensagem" style="margin-bottom: 15px; border-radius: 15px;" placeholder="Eu gostaria de..."></textarea>
 
-    <fieldset>
-        <legend>Como prefere o nosso contato?</legend>
-        <label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">Email</label>
+            <fieldset>
+                <legend>Como prefere o nosso contato?</legend>
+                <label for="radio-email">
+                <input type="radio" name="contato" value="email" id="radio-email">Email</label>
 
-        <label for="radio-telefone"><input type="radio" name="contato" value="telefone" id="radio-telefone">Telefone
-        </label>
+                <label for="radio-telefone">
+                <input type="radio" name="contato" value="telefone" id="radio-telefone">Telefone
+                </label>
 
-        <label for="radio-whatsapp"><input type="radio" name="contato" value="whatsapp" id="radio-whatsapp" checked>Whatsapp
-        </label>
-    </fieldset>
+                <label for="radio-whatsapp">
+                <input type="radio" name="contato" value="whatsapp" id="radio-whatsapp" checked>Whatsapp
+                </label>
+            </fieldset>
 
-    <label class="checkbox"><input type="checkbox">Gostaria de receber nossas novidades por e-mail?</label>
+            <label class="checkbox"><input type="checkbox">Gostaria de receber novas receitas por e-mail?</label>
+            <input value="Enviar" class="enviar-formulario" id="enviar" type="submit">
 
-    <input type="submit" value="Enviar" class="enviar-formulario">
-</form>
+        </form>
 
 <footer class="rodape-secao">
     <div class="container">
@@ -81,20 +87,7 @@
                         viverra maecenas accumsan lacus vel facilisis.</p>
                 </div>
             </div>
-            <div class="col-lg-6 offset-lg-1">
-                <form action="#" class="formulario-inscricao">
-                    <h3>Inscreva-se para receber receitas no e-mail</h3>
-                    <input type="email" placeholder="Seu e-mail">
-                    <button type="submit">E-mail</button>
-                </form>
-                <div class="social-links">
-                    <a href="#"><i class="fa fa-instagram"></i><span>Instagram</span></a>
-                    <a href="#"><i class="fa fa-pinterest"></i><span>Pinterest</span></a>
-                    <a href="#"><i class="fa fa-facebook"></i><span>Facebook</span></a>
-                    <a href="#"><i class="fa fa-twitter"></i><span>Twitter</span></a>
-                    <a href="#"><i class="fa fa-youtube"></i><span>Youtube</span></a>
-                </div>
-            </div>
         </div>
     </div>
 </footer>
+</body>

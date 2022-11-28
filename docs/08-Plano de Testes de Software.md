@@ -8,9 +8,11 @@ O plano de testes foi elaborado para garantir que as funcionalidades atendam aos
 Os testes a serem realizados foram descritos nos seguintes quadros.
 
 
-|Caso de teste | CT-01 xxxxxx |
+|Caso de teste | CT-01 Visualisar receita |
 |------|-----------------------------------------|
-|Requisitos associados| RF00 - o site deve...                                  |
-|Objetivo do teste | Verificar se... | 
-|Passos| 1 / 2 / 3                       |
-|Critério para sucesso| O site deve....                          |
+|Requisitos associados| RF04 - As receitas deverão exibir informações detalhadas dos processos e ingredientes      |
+|Objetivo do teste | Verificar se a receita foi exibida com todas informações na tela do usuário | 
+|Passos| - 1 - Acessar o site
+- 2 - Clickar em uma receita                       |
+|Critério para sucesso| As receitas devem ser exibidas corretamente na tela do usuário, trazendo imagens e textos corretamente relacionados    |
+

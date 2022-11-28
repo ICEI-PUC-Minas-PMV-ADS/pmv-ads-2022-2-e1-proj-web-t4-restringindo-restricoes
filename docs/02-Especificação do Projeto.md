@@ -66,8 +66,7 @@ O escopo do projeto foi desenvolvido através da análise dos perfis de usuário
 |RF-05| O site deve ter um sistema de avaliação de receitas                                     | MÉDIA |
 |RF-06| O site deve exibir as receitas mais avaliadas no campo "*top receitas*"                 | MÉDIA |
 |RF-07| O site permitirá interação entre usuários através de campos de comentários              | BAIXA |
-|RF-08| O site terá compartilhamento das receitas visualizadas nas plataformas de redes sociais | BAIXA |
-|RF-09| O site permite que o usuário visualize as informações de contatos do gerenciador        | BAIXA |
+|RF-08| O site permite que o usuário visualize as informações de contatos do gerenciador        | BAIXA |
 
 
 

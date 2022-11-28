@@ -14,16 +14,18 @@ Neste tópico é apresentado o desenvolvimento elaborado para funcionalidade das
 
 **3. Tela de Receitas**
 
-IMAGEM DA TELA DE RECEITAS NO NAVEGADOR
+![Tela de Receitas](img/pagina-receitas.png)
 
 Requisitos atendidos
--	RF-00 
--	RF-00 
+-	RF-02
+-	RF-04
+-	RF-05
+-	RF-07 
 
 Artefatos da funcionalidade
 -	receitas.html
 -	script.js
--	style.css
+-	style-pag-receitas.css
 -	logo.jpg
 -	little-logo.jpg
 -	footer-logo.jpg
@@ -36,6 +38,8 @@ Artefatos da funcionalidade
 
 
 Estrutura de Dados
+
+
 
 
 
@@ -57,11 +61,10 @@ Instruções de acesso
 
 **6. Tela de Sobre e Estatísticas**
 
-IMAGEM DA TELA DE SOBRE E ESTATISTICAS NO NAVEGADOR
+![Tela Sobre e Estatísticas](img/pagina-sobre.png)
 
 Requisitos atendidos
--	RF-00 
--	RF-00 
+-	RF-08 
 
 Artefatos da funcionalidade
 -	sobre.html

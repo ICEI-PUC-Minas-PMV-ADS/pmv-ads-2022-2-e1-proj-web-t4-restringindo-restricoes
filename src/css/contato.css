@@ -142,11 +142,6 @@ html, body {
 /* Fim do estilo do cabeçalho */
 
 /* Estilo da página de contatos */
-
-html, body {
-    font-family: 'PT Sans', sans-serif;
-}
-
 form {
     padding-left: 25px;
     margin: 40px 0px

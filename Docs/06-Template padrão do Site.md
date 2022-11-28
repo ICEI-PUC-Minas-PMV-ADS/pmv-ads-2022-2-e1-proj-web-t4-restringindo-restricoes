@@ -55,12 +55,12 @@ Tela de exibição da proposta e história do projeto.
 
 Tela para o usuário acessar sua conta.
 
-IMAGEM DA TELA
+![Tela de Receitas](img/TELALOGIN.png)
 
 **8. Tela de Cadastro**
 
 Tela para cadastro do usuário.
 
-IMAGEM DA TELA
+![Tela de Receitas](img/CADASTROCLIENTE.png)
 
 

@@ -12,7 +12,6 @@ Os testes a serem realizados foram descritos nos seguintes quadros.
 |------|-----------------------------------------|
 |Requisitos associados| RF04 - As receitas deverão exibir informações detalhadas dos processos e ingredientes      |
 |Objetivo do teste | Verificar se a receita foi exibida com todas informações na tela do usuário | 
-|Passos| - 1 - Acessar o site
-- 2 - Clickar em uma receita                       |
+|Passos| - 1 - Acessar o site - 2 - Clickar em uma receita                       |
 |Critério para sucesso| As receitas devem ser exibidas corretamente na tela do usuário, trazendo imagens e textos corretamente relacionados    |
 

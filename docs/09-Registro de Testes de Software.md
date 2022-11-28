@@ -3,4 +3,16 @@
 Com base nos testes realizados no tópico anterior, os resultados obtidos são descritos abaixo.
 
 
-**PRINT DAS TELAS MOSTRANDO OS TESTES DE FUNCIONALIDADES**
+**Teste de visualizar receita**
+
+![Visualização da receita](img/teste-vis-receitas.png)
+
+
+**Teste de comentar receita**
+
+![Comentario da receita](img/teste-coment-receitas.png)
+
+
+**Teste de avaliação de receita**
+
+![Visualização da receita](img/teste-aval-receitas.png)

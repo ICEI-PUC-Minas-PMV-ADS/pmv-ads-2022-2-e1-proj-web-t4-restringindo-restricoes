@@ -29,5 +29,5 @@ O projeto irá utilizar das tecnologias de arquivos HTML, CSS e JavaScript para 
 
 ## Hospedagem
 
-O projeto do site utiliza a plataforma Github como ambiente para hospedagem. 
-A publicação do site no Github é feita através da criação de um repositório para desenvolvimento do projeto, depois é feito envio dos arquivos para o repositório por meio de submissão (push), depois é feito o deploy do site com a ferramenta do Github Pages.
+O projeto do site utiliza a plataforma Netlify como ambiente para hospedagem. 
+A publicação do site no Netlify é feita através da criação de um repositório para desenvolvimento do projeto, depois é feito envio dos arquivos para o repositório por meio de submissão (push), depois é feito o deploy do site.
